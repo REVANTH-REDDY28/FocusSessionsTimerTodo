@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/textView_historyItem_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/nosifer"
+        android:gravity="center"
+        android:text="@string/text_date_09_04_2022"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/textView_historyItem_timeSpent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/creepster"
+        android:gravity="center"
+        android:text="@string/text_time_spent_0"
+        android:textSize="20sp" />
+
+</LinearLayout>

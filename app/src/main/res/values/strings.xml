@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Focus Sessions-Simple Timer &amp; Todo</string>
+    <string name="text_history">History</string>
+    <string name="text_focus">Focus</string>
+    <string name="text_todo">Todo</string>
+    <string name="text_add">ADD</string>
+    <string name="text_add_new_todo">Add new todo</string>
+    <string name="text_todo_text">todo text</string>
+    <string name="text_time_spent_0">time spent:0</string>
+    <string name="text_date_09_04_2022">Date: 09/04/2022</string>
+    <string name="text_reset">RESET</string>
+    <string name="mins">mins</string>
+    <string name="_45">45</string>
+    <string name="today">today</string>
+    <string name="tuesday_caps">TUESDAY</string>
+    <string name="tips">Have a plan to help you stay on track.</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="text_select_todo">select todo:</string>
+    <string name="isAlarmSet">isAlarmSet</string>
+    <string name="todaysDateExactTime">todaysDateExactTime</string>
+    <string name="spinnerSelectedTodoId" />
+    <string name="alarmStartDate" >alarmStartDate</string>
+    <string name="text_enter_todo">Enter todo</string>
+    <string name="text_update_todo">update todo</string>
+    <string name="r_u_sure">ARE YOU SURE?</string>
+    <string name="all_ur_data">All your work history will be gone !</string>
+    <string name="text_cancel">cancel</string>
+    <string name="text_ok">ok</string>
+</resources>
